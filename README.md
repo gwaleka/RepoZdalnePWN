@@ -1,1 +1,2 @@
 # RepoZdalnePWN
+Pierwsze repozytorium zdalne
